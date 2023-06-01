@@ -1,0 +1,20 @@
+[PC-XXXX](https://curecall.myjetbrains.com/youtrack/issue/PC-XXXX)
+
+# 🩺 Problème
+> _Résumer ici le contexte et la problématique du ticket_
+
+# 💊 Proposition
+> _Décrire ici la proposition de solution_
+
+# ✅ Checklist
+
+- [ ] Ajout de tests unitaires
+- [ ] Considération niveau sécurité (pas de `dangerouslySetInnerHtml`, XSS, open redirect, etc.)
+- [ ] Justification de l'ajout d'un eslint-disable sous forme de commentaire dans le code
+- [ ] Self-review du code
+- [ ] Vérifier l'accessibilité (si frontend)
+- [ ] Design Quality Assurance (si frontend)
+- [ ] Ajouter dans le ticket Youtrack : 
+    - la procédure de test(s) fonctionnel(s)
+    - ce qui a changé et/ou ce qui pourrait être impacté
+    - l'url de test (si frontend)
