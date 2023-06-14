@@ -13,7 +13,7 @@
 - [ ] Justification de l'ajout d'un eslint-disable sous forme de commentaire dans le code
 - [ ] Self-review du code
 - [ ] Vérifier l'accessibilité (si frontend)
-- [ ] Design Quality Assurance (si frontend)
+- [ ] Validation du design par une personne du Produit (si frontend)
 - [ ] Ajouter dans le ticket Youtrack : 
     - la procédure de test(s) fonctionnel(s)
     - ce qui a changé et/ou ce qui pourrait être impacté
