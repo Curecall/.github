@@ -1,8 +1,10 @@
+[lien du ticket Asana ici]
+
 # 🩺 Problème
-> _Résumer ici le contexte et la problématique du ticket_
+Résumer ici le contexte et la problématique du ticket
 
 # 💊 Proposition
-> _Décrire ici la proposition de solution_
+Décrire ici la proposition de solution
 
 # ✅ Checklist
 
